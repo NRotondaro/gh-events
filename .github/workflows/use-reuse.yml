@@ -1,4 +1,4 @@
-name: Ugins Reusable Workflow
+name: Using Reusable Workflow
 on:
   push:
     branches:
